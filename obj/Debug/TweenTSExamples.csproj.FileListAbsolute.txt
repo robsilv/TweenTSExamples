@@ -1,0 +1,6 @@
+D:\github\TweenTSExamples\bin\TweenTSExamples.dll.config
+D:\github\TweenTSExamples\bin\TweenTSExamples.dll
+D:\github\TweenTSExamples\bin\TweenTSExamples.pdb
+D:\github\TweenTSExamples\obj\Debug\TweenTSExamples.csprojResolveAssemblyReference.cache
+D:\github\TweenTSExamples\obj\Debug\TweenTSExamples.dll
+D:\github\TweenTSExamples\obj\Debug\TweenTSExamples.pdb
